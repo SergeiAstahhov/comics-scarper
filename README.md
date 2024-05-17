@@ -1,2 +1,2 @@
-![Alt text](./img/SERGEI%20ASTAHOV.png)
+![Alt text](./screenshott/SERGEIASTAHOV.png)
 
